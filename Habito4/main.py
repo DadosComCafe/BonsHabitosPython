@@ -1,0 +1,1 @@
+from functions.function import confere_tipagem_integer, confere_valor_par, exporta_txt_com_valor_par

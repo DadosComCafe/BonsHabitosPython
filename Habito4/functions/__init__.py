@@ -1,0 +1,1 @@
+print("Você importou do módulo functions")
